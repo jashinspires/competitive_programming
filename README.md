@@ -1,10 +1,3 @@
-<div align="center">
-
-<!-- HEADER -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:1f6feb&height=220&section=header&text=⚡%20Competitive%20Programming&fontSize=42&fontColor=58a6ff&fontAlignY=35&desc=From%20Zero%20to%20Grandmaster%20—%20One%20Problem%20at%20a%20Time&descSize=16&descColor=8b949e&descAlignY=55&animation=fadeIn" width="100%"/>
-
-<br/>
-
 <!-- BADGES -->
 [![Profile](https://img.shields.io/badge/Codeforces-jashinspires-1f8acb?style=for-the-badge&logo=codeforces&logoColor=white)](https://codeforces.com/profile/)
 [![Language](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)](#)
