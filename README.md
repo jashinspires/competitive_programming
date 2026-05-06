@@ -81,55 +81,6 @@ competitive_programming/
 
 > **Convention:** Each solution file is named as `ProblemName_Source.cpp` (e.g., `TwoSum_Leetcode.cpp`, `Watermelon_CF.cpp`)
 
----
-
-## 📊 Roadmap Progress
-
-### 🏔️ YouKn0wWho — The Ultimate Topic List
-
-| # | Category | Problems | Progress | Status |
-|:-:|:---------|:--------:|:--------:|:------:|
-| 1 | **Basics** | 56 | ![](https://geps.dev/progress/0) | 🔜 |
-| 2 | **Data Structures** | 82 | ![](https://geps.dev/progress/0) | 🔜 |
-| 3 | **Graph Theory** | 103 | ![](https://geps.dev/progress/0) | 🔜 |
-| 4 | **Number Theory** | 59 | ![](https://geps.dev/progress/0) | 🔜 |
-| 5 | **Combinatorics** | 25 | ![](https://geps.dev/progress/0) | 🔜 |
-| 6 | **Math** | 80 | ![](https://geps.dev/progress/0) | 🔜 |
-| 7 | **Strings** | 31 | ![](https://geps.dev/progress/0) | 🔜 |
-| 8 | **Dynamic Programming** | 35 | ![](https://geps.dev/progress/0) | 🔜 |
-| 9 | **Game Theory** | 7 | ![](https://geps.dev/progress/0) | 🔜 |
-| 10 | **Geometry** | 55 | ![](https://geps.dev/progress/0) | 🔜 |
-| 11 | **Miscellaneous** | 43 | ![](https://geps.dev/progress/0) | 🔜 |
-
-<br/>
-
-### 🗺️ Striver's A2Z DSA Sheet
-
-| Step | Topic | Problems | Progress | Status |
-|:----:|:------|:--------:|:--------:|:------:|
-| 1 | **Learn the Basics** — *C++ STL, Maths, Patterns, Recursion, Hashing* | 54 | ![](https://geps.dev/progress/0) | 🔜 |
-| 2 | **Sorting Techniques** — *Bubble, Selection, Insertion, Merge, Quick* | 7 | ![](https://geps.dev/progress/0) | 🔜 |
-| 3 | **Arrays** — *Easy → Medium → Hard* | 40 | ![](https://geps.dev/progress/0) | 🔜 |
-| 4 | **Binary Search** — *1D, 2D Arrays, Search Space* | 32 | ![](https://geps.dev/progress/0) | 🔜 |
-| 5 | **Strings** — *Basic and Medium* | 15 | ![](https://geps.dev/progress/0) | 🔜 |
-| 6 | **Linked List** — *Single LL, Double LL, Medium, Hard* | 31 | ![](https://geps.dev/progress/0) | 🔜 |
-| 7 | **Recursion** — *PatternWise, Subsequences, Backtracking* | 25 | ![](https://geps.dev/progress/0) | 🔜 |
-| 8 | **Bit Manipulation** — *Concepts & Problems* | 18 | ![](https://geps.dev/progress/0) | 🔜 |
-| 9 | **Stack & Queues** — *Pre/In/Post-fix, Monotonic Stack* | 30 | ![](https://geps.dev/progress/0) | 🔜 |
-| 10 | **Sliding Window & Two Pointer** | 12 | ![](https://geps.dev/progress/0) | 🔜 |
-| 11 | **Heaps** — *Learning, Medium, Hard* | 17 | ![](https://geps.dev/progress/0) | 🔜 |
-| 12 | **Greedy Algorithms** — *Easy, Medium/Hard* | 15 | ![](https://geps.dev/progress/0) | 🔜 |
-| 13 | **Binary Trees** — *Traversals, Medium, Hard* | 38 | ![](https://geps.dev/progress/0) | 🔜 |
-| 14 | **Binary Search Trees** — *Concepts & Problems* | 16 | ![](https://geps.dev/progress/0) | 🔜 |
-| 15 | **Graphs** — *BFS/DFS, Topo Sort, Shortest Path, MST, DSU* | 53 | ![](https://geps.dev/progress/0) | 🔜 |
-| 16 | **Dynamic Programming** — *1D/2D, Grids, Subsequences, Strings, Stocks, LIS, MCM* | 55 | ![](https://geps.dev/progress/0) | 🔜 |
-| 17 | **Tries** — *Theory & Problems* | 7 | ![](https://geps.dev/progress/0) | 🔜 |
-
-<sub>
-
-**Legend:** 🔜 Not Started &nbsp;|&nbsp; 🔄 In Progress &nbsp;|&nbsp; ✅ Completed
-
-</sub>
 
 ---
 
