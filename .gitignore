@@ -1,0 +1,13 @@
+#compiled executables
+*.exe
+*.out
+*.app
+*.o
+*.obj
+
+#debug files
+*.pdb
+*.ilk
+
+#VS Code Settings
+.vscode/
