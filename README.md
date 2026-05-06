@@ -2,17 +2,12 @@
 [![Profile](https://img.shields.io/badge/Codeforces-jashinspires-1f8acb?style=for-the-badge&logo=codeforces&logoColor=white)](https://codeforces.com/profile/)
 [![Language](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)](#)
 [![Status](https://img.shields.io/badge/Status-Grinding%20📈-brightgreen?style=for-the-badge)](#)
-[![License](https://img.shields.io/badge/License-MIT-yellow?style=for-the-badge)](#)
 
 <br/>
 
-> *"The only way to learn mathematics is to do mathematics."* — Paul Halmos
-
-</div>
-
 ---
 
-## 🧭 About
+## 🧭 What is this graveyard ?
 
 This repository is my personal **competitive programming vault** — a structured archive of every problem I solve, every algorithm I learn, and every technique I master. It follows two of the most comprehensive CP/DSA roadmaps available:
 
