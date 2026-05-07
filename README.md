@@ -7,9 +7,9 @@
 
 ---
 
-## 🧭 What is this graveyard ?
+## 🧭 About
 
-This repository is my personal **competitive programming vault** — a structured archive of every problem I solve, every algorithm I learn, and every technique I master. It follows two of the most comprehensive CP/DSA roadmaps available:
+This repository is my personal **competitive programming vault** - a structured archive of every problem I solve, every algorithm I learn, and every technique I master. It follows two of the most comprehensive CP/DSA roadmaps available:
 
 <table>
 <tr>
